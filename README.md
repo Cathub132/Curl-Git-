@@ -1,0 +1,1 @@
+Like a package manager but uses curl Simply want a package just inspect the github issues that i have given a reply say it is ready and the file name is blalblabla.somthing You Know then you curl oto download the file from my website but You must know curl. curl is diifrent on mac linux and windows so learn a tutorial on how to use it for your os and do it.
